@@ -21,4 +21,4 @@ Nome
 DISCIPLINA
 CodCurso(FK)
 
-
+Aluno (1) realiza Matricula (N) envolve Curso (N) contém Professor (N) contém (N)
